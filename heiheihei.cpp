@@ -2,8 +2,7 @@
 using namespace std;
 
 int main(){
-
-    cout <<"hilll";
+    cout <<"kao";
 
     return 0;
 }
